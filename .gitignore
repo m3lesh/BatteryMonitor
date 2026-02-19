@@ -13,5 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
-.kotlin
+
 .history
+
+# Kotlin
+.kotlin/
+.kotlin-module
+.kotlin_module
+
+# IntelliJ
+.idea/
+
+.vscode
