@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Battery Monitor</string>
+    <string name="overlay_loading">جاري التحميل…</string>
+    <string name="overlay_voltage_format">%1$.2fV</string>
+    <string name="overlay_current_format">%1$dmA</string>
+    <string name="overlay_temperature_format">%1$.1f°C</string>
+    <string name="overlay_level_format">%1$d%%</string>
+
+    <string name="action_start_overlay">بدء عرض البطارية العائم</string>
+    <string name="action_stop_overlay">إيقاف عرض البطارية العائم</string>
+
+    <string name="option_voltage">الجهد</string>
+    <string name="option_current">التيار</string>
+    <string name="option_temperature">درجة الحرارة</string>
+    <string name="option_level">نسبة الشحن</string>
+</resources>
